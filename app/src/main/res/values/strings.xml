@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MockyPhonebook</string>
+
+    <string-array name="sort_options">
+        <item>Last name</item>
+        <item>First name</item>
+    </string-array>
+
+</resources>
